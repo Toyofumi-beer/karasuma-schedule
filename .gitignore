@@ -1,0 +1,10 @@
+# すべて除外し、アプリ動作に必要なファイルだけを許可する方式
+*
+
+# --- アップロードするファイル ---
+!.gitignore
+!app.py
+!generate_schedule.py
+!annual_schedule.json
+!requirements.txt
+!README.md
