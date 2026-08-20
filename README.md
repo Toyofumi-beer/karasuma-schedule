@@ -2,6 +2,15 @@
 
 月次スケジュール表を Word / Excel 形式で生成する Streamlit アプリです。
 
+## 使い方（Web版）
+
+ブラウザで以下を開くだけで使えます。会社のPCからも利用可能です。
+
+**https://karasuma-schedule-8w5houzrnsvuzkf6sco5vu.streamlit.app/**
+
+しばらく使っていないとスリープ状態になります。その場合は画面に出る
+「Yes, get this app back up!」を押すと 1 分ほどで復帰します。
+
 ## 使い方（ローカル）
 
 ```bash
